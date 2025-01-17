@@ -1,3 +1,6 @@
 print("hello")
 #python home
 print("Hello, World!")
+#pythonsyntax
+if 5 > 2:
+  print("Five is greater than two!")
