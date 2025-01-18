@@ -23,3 +23,9 @@ written in
 more than just one line
 """
 print("Hello, World!")
+
+#VARIABLES
+x = 5
+y = "John"
+print(x)
+print(y)
