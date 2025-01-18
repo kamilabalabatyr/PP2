@@ -79,3 +79,36 @@ x, y, z = fruits
 print(x)
 print(y)
 print(z)
+
+#Python - Output Variables
+
+#1st example
+x = "Python is awesome"
+print(x)
+
+#2nd example
+x = "Python"
+y = "is"
+z = "awesome"
+print(x, y, z)
+
+#3rd example
+x = "Python "
+y = "is "
+z = "awesome"
+print(x + y + z)
+
+#4th example
+x = 5
+y = 10
+print(x + y)
+
+#5th example
+x = 5
+y = "John"
+print(x + y)
+
+#6th example
+x = 5
+y = "John"
+print(x, y)
