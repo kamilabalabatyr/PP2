@@ -58,3 +58,24 @@ _my_var = "John"
 myVar = "John"
 MYVAR = "John"
 myvar2 = "John"
+
+#Python Variables - Assign Multiple Values
+
+#1st example
+x, y, z = "Orange", "Banana", "Cherry"
+print(x)
+print(y)
+print(z)
+
+#2nd example
+x = y = z = "Orange"
+print(x)
+print(y)
+print(z)
+
+#3rd example
+fruits = ["apple", "banana", "cherry"]
+x, y, z = fruits
+print(x)
+print(y)
+print(z)
