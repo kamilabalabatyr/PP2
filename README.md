@@ -7,6 +7,7 @@ Programming Principles 2 — все лабораторные в одном ре�
 | [Lab1-2](Lab1-2) | Lab1-2 |
 | [Lab3](Lab3) | LAB-3-PP2 |
 | [Lab4-5](Lab4-5) | LAB4-5 |
+| [Lab6](Lab6) | LAB6 |
 | [Lab7](Lab7) | LAB7 |
 | [Lab8](Lab8) | LAB-8 |
 | [Lab9](Lab9) | lab9 |
